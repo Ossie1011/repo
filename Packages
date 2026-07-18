@@ -14,3 +14,19 @@ Description: An awesome MobileSubstrate tweak!
 Author: Oscar
 Name: CustomBattery
 
+Package: com.ossie.custombattery
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm
+Maintainer: Oscar
+Installed-Size: 56
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.ossie.custombattery_0.0.1-2+debug_iphoneos-arm.deb
+Size: 2756
+MD5sum: f2e05420328367aaaf1e4a413d1421c8
+SHA1: 0603333c09c9de31809a86fc62ba22ee798ddb39
+SHA256: 496a5c4b11df9d2a41f7346d7f3053d9f1a48e35f37eeee66b2750c7f81dfb10
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Oscar
+Name: CustomBattery
+
